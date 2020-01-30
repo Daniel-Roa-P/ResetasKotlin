@@ -1,20 +1,30 @@
 
 class Cereal() : Alimento() {
 
-    override fun mostrarMenu(): String? {
+    override fun mostrarMenu(): String?  {
 
-        menu = """
-        Seleccione el tipo de cereal desead:
-            
-            1. Maiz
-            2. Trigo
-            3. Arros
-            4. Cebada
-            5. Avena
-            6. Alpiste
-            7. Salir""".trimMargin()
+        elementos=7
 
-        return menu
+        alimentos = listOf("Maiz","Trigo","Arroz","Cebada","Avena","Alpiste","Salir")
+
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="7"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

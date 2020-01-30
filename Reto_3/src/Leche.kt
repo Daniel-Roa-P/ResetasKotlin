@@ -1,17 +1,30 @@
 
     class Leche() : Alimento() {
 
-    override fun mostrarMenu(): String? {
+    override fun mostrarMenu(): String?  {
 
-        menu = """
-        Seleccione el tipo de leche deseada:
-            
-            1. Entera
-            2. Deslactosada
-            3. Descremada
-            4. Salir""".trimMargin()
+        elementos=4
 
-        return menu
+        alimentos = listOf("Leche entera","Leche deslactosada","Leche descremada","Salir")
+
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="4"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

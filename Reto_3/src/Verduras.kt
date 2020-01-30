@@ -1,19 +1,30 @@
 
 class Verduras() : Alimento() {
 
-    override fun mostrarMenu(): String? {
+    override fun mostrarMenu(): String?  {
 
-        menu = """
-        Seleccione el tipo de verdura deseada:
-            
-            1. Tomate
-            2. Cebolla
-            3. Borcoli
-            4. Zanahoria
-            5. Ajo
-            6. Salir""".trimMargin()
+        elementos=6
 
-        return menu
+        alimentos = listOf("Tomate","Cebolla","Brocoli","Zanahoria","Ajo","Salir")
+
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="6"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

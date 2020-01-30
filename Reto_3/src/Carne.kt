@@ -3,16 +3,28 @@ class Carne() : Alimento() {
 
     override fun mostrarMenu(): String? {
 
-        menu = """
-        Seleccione el tipo de carne deseada:
-            
-            1. Carne de res
-            2. Carne de pollo
-            3. Carne de cerdo
-            4. Pescado
-            5. Salir""".trimMargin()
+        elementos=5
 
-        return menu
+        alimentos = listOf("Carne de res","Carne de pollo","Carne de cerdo","Carne de pescado","Salir")
+
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="5"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

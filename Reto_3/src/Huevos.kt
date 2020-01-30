@@ -1,17 +1,30 @@
 
 class Huevos() : Alimento() {
 
-    override fun mostrarMenu(): String? {
+    override fun mostrarMenu(): String?  {
 
-        menu = """
-        Seleccione el tipo de huevos deseados:
-            
-            1. Huevos de gallina
-            2. Huevos de codornis
-            3. Salir""".trimMargin()
+        elementos=3
 
-        return menu
+        alimentos = listOf("Huevos de gallina","Huevos de coodornis","Salir")
 
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="3"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
     }
 
 }

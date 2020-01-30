@@ -1,22 +1,30 @@
 
 class Frutas() : Alimento() {
 
-    override fun mostrarMenu(): String? {
+    override fun mostrarMenu(): String?  {
 
-        menu = """
-        Seleccione el tipo de fruta deseada:
-            
-            1. Manzana
-            2. Pera
-            3. Fresa
-            4. Banana
-            5. Limon
-            6. Mango
-            7. Durazno
-            8. Melocoton
-            9. Salir""".trimMargin()
+        elementos=9
 
-        return menu
+        alimentos = listOf("Manzana","Pera","Fresa","Banana","Limon","Mango","Durazno","Melocoton","Salir")
+
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="9"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

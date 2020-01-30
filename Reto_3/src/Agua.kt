@@ -3,16 +3,27 @@ class Agua() : Alimento() {
 
     override fun mostrarMenu(): String? {
 
-        menu = """
-        Seleccione el tipo de agua deseada:
-            
-            1. Agua sin gas
-            2. Agua con gas
-            3. Agua mineral
-            4. Agua saborisada
-            5. Salir""".trimMargin()
+        elementos=5
+        alimentos = listOf("Agua sin gas","Agua con gas","Agua mineral","Agua saborisada","Salir")
 
-        return menu
+        println("Seleccione el ingrediente")
+        for (i in 1..elementos) {
+
+            println("   $i. ${alimentos.get(i-1)}")
+
+        }
+
+        opcion = readLine()
+
+        if(opcion=="5"){
+
+            return ""
+
+        } else {
+
+            return alimentos.get(opcion.toString().toInt() - 1)
+
+        }
 
     }
 

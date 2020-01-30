@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38302f0f-4b30-4765-bf5f-39c3ef5d875a" name="Default Changelist" comment="" />
+    <list default="true" id="38302f0f-4b30-4765-bf5f-39c3ef5d875a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Reto 1 y 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reto 1 y 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Aceite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Aceite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Agua.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Agua.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Alimento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Alimento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Carne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Carne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Cereal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Cereal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Frutas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Frutas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Huevos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Huevos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Leche.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Leche.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/RecipesMarketKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/RecipesMarketKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reto_3/Verduras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reto_3/Verduras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aceite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aceite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Agua.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Agua.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alimento.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alimento.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Carne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cereal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cereal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frutas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frutas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huevos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huevos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leche.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leche.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecipesMarket.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecipesMarket.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verduras.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verduras.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WBexuP6UmpFly1OnneRrKrmYUV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +49,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="RecipesMarketKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -77,25 +106,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578631701503" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578632708701">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580313193913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578632708701" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578632708701">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580313193913" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580356038903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578632708701" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578632708701">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580356038903" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580356038903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578632708701" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578632708701">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580356038903" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580356038903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578632708701" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578628229361">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580356038903" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580356038903">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578628229361" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580356038903" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580313042691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580313042691" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580347119844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580347119844" />
   </component>
 </project>

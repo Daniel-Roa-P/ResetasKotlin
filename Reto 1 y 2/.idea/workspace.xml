@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b0cb83c-53c0-4fbe-8c74-39a5171ee4b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecipesMarker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RecipesMarker/META-INF/RecipesMarker.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/RecipesMarker/RecipesMakerKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/RecipesMaker.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="3b0cb83c-53c0-4fbe-8c74-39a5171ee4b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Reto_3" />
   </component>
   <component name="RunManager">
     <configuration name="RecipesMakerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -86,26 +74,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576637590814">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580355940718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576637590814" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576637590814">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580355940718" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580316089336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576637590814" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576637590814">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580316089336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580316089336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576637590814" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576637590814">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580316089336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580316089336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576637590814" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1576798810345">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580316089336" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580316089336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576798810345" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580316089336" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580346274320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580346274320" />
     <state x="65" y="88" key="new project wizard" timestamp="1578627664179">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
